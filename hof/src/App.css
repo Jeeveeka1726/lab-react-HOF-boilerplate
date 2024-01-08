@@ -3,5 +3,9 @@
 }
 
 .list-elements{
-  list-style: none;
+  list-style:none;
+  color: blue;
+}
+.display-box{
+  border: 2px solid black;
 }
